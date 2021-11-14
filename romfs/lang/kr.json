@@ -149,7 +149,7 @@
         "backup_failed": "헤카테 patch.ini를 백업할 수 없습니다! 그래도 설치하겠습니까?",
         "backup_failed_desc": "헤카테를 사용하지 않는다면 이 경고를 무시할 수 있습니다.",
         "download_failed": "서명 패치를 다운로드할 수 없습니다.",
-        "download_failed_desc": "TinWoo 설치 프로그램 설정에서 잘못된 소스를 제공했거나\또는 호스트가 바로 다운되었을 수 있습니다.",
+        "download_failed_desc": "TinWoo 설치 프로그램 설정에서 잘못된 소스를 제공했거나\n또는 호스트가 바로 다운되었을 수 있습니다.",
         "version_text2": "서명 패치가 최대 HOS 버전으로 업데이트되었습니다 ",
         "install_complete": "설치가 완료되었습니다!",
         "complete_desc": "적용하려명 콘솔을 다시 시작하세요",
@@ -209,7 +209,7 @@
         "buttons": "\ue0e0 선택/변경    \ue0e1 취소"
     },
     "common": {
-        "ok": "확인,
+        "ok": "확인",
         "cancel": "취소",
         "close": "닫기",
         "yes": "예",
